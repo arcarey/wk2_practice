@@ -6,7 +6,7 @@ console.log(testVar);
 
 console.log('the value of testVar is', testVar);
 
-testVar = 02384572
+testVar = 02334537;
 
 console.log('the value of testVar is', testVar);
 
